@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AcKbxAEbGSR+TTwtDNOdIT/btQlx9K0FpLFjG+ZJ703vnTpNRYcB+QyruWAiejrvEobcDxY7FkBNYuyfS94mdw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\DOTNET_TESTS\\CorsExample\\CorsExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dione\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
